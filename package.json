@@ -11,8 +11,8 @@
     "jsnake"
   ],
   "bugs": {
-    "url": "",
-    "email": "magicwantabstract@gmail.com"
+    "url": "https://github.com/abstractmagicalwand/snake/issues",
+    "email": "abstractmagicalwand@gmail.com"
   },
   "license": "MIT",
   "main": "./server.js",
@@ -20,14 +20,16 @@
     "test" : "echo \"Error: no test specified\" && exit 1",
     "start": "echo \"Open in browser: http://127.0.0.1:8080/index.html\" & node ./server.js"
   },
-  "engines": {"node": "<=6.7.0"},
+  "engines": {
+    "node": "<=6.7.0"
+  },
   "author": {
-    "name": "magicwantabstract",
-    "email": "magicwantabstract@gmail.com",
-    "url": "https://github.com/magicwantabstract"
+    "name": "abstractmagicalwand",
+    "email": "abstractmagicalwand@gmail.com",
+    "url": "https://github.com/abstractmagicalwand"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/magicwantabstract/snake"
+    "url": "git://github.com/abstractmagicalwand/snake"
   }
 }

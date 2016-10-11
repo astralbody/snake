@@ -356,7 +356,7 @@ menuAbout = new Menu([
   '35px DejaVu Sans',
   config.game.context,
   config.game.canvas, {
-    text : 'Version: 1.0.0',
+    text : 'Version: 1.0.1',
     xText: 200,
     yText: 200
   }
