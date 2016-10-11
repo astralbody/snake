@@ -1,0 +1,33 @@
+{
+  "name": "jsnake",
+  "version": "1.0.0",
+  "description": "Snake, legendary game on html5/canvas. There is a system of ranks. Be the first in this universe!",
+  "keywords": [
+    "snake",
+    "game",
+    "canvas",
+    "html5",
+    "rank",
+    "jsnake"
+  ],
+  "bugs": {
+    "url": "",
+    "email": "magicwantabstract@gmail.com"
+  },
+  "license": "MIT",
+  "main": "./server.js",
+  "scripts": {
+    "test" : "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Open in browser: http://127.0.0.1:8080/index.html\" & node ./server.js"
+  },
+  "engines": {"node": "<=6.7.0"},
+  "author": {
+    "name": "magicwantabstract",
+    "email": "magicwantabstract@gmail.com",
+    "url": "https://github.com/magicwantabstract"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/magicwantabstract/snake"
+  }
+}
